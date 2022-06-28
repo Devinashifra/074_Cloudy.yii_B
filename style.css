@@ -1,0 +1,37 @@
+body {
+    background-color: #fce4de;
+}
+.img-categori {
+    width: 100px;
+}
+.img-categori:hover{
+    transform: scale(1.2);
+}
+.row-container {
+    background-color: white;
+    margin: 0px;
+
+}
+.card {
+    width: 250px;
+}
+.card:hover {
+    border: 1px solid #2d2d2d;
+}
+.row-product {
+    background-color: #fff;
+    margin: 0;
+    padding: 5px;
+    padding-top: 16px;
+}
+.garis-product {
+    border-bottom: 2px solid #2d2d2d;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.deskripsi{
+    font-size: 14px;
+}
+.img-keranjang{
+    width: 50px;
+}
